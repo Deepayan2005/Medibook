@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediBook</string>
+    <string name="umid">Umid ID</string>
+    <string name="select">Select Account</string>
+</resources>
